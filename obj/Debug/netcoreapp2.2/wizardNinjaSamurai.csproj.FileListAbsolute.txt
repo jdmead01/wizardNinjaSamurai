@@ -1,0 +1,11 @@
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/wizardNinjaSamurai/obj/Debug/netcoreapp2.2/wizardNinjaSamurai.csprojAssemblyReference.cache
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/wizardNinjaSamurai/obj/Debug/netcoreapp2.2/wizardNinjaSamurai.csproj.CoreCompileInputs.cache
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/wizardNinjaSamurai/obj/Debug/netcoreapp2.2/wizardNinjaSamurai.AssemblyInfoInputs.cache
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/wizardNinjaSamurai/obj/Debug/netcoreapp2.2/wizardNinjaSamurai.AssemblyInfo.cs
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/wizardNinjaSamurai/bin/Debug/netcoreapp2.2/wizardNinjaSamurai.deps.json
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/wizardNinjaSamurai/bin/Debug/netcoreapp2.2/wizardNinjaSamurai.runtimeconfig.json
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/wizardNinjaSamurai/bin/Debug/netcoreapp2.2/wizardNinjaSamurai.runtimeconfig.dev.json
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/wizardNinjaSamurai/bin/Debug/netcoreapp2.2/wizardNinjaSamurai.dll
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/wizardNinjaSamurai/bin/Debug/netcoreapp2.2/wizardNinjaSamurai.pdb
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/wizardNinjaSamurai/obj/Debug/netcoreapp2.2/wizardNinjaSamurai.dll
+/Users/jdmead/Library/Mobile Documents/com~apple~CloudDocs/Coding Dojo/C#/wizardNinjaSamurai/obj/Debug/netcoreapp2.2/wizardNinjaSamurai.pdb
